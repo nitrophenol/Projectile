@@ -1,0 +1,22 @@
+{
+  "name": "@nitro_phenol/projectile",
+  "version": "1.0.0",
+  "description": "projectile motion analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitrophenol/Projectile.git"
+  },
+  "keywords": [
+    "projectile"
+  ],
+  "author": "nitro_phenol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitrophenol/Projectile/issues"
+  },
+  "homepage": "https://github.com/nitrophenol/Projectile#readme"
+}
